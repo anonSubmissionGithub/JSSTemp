@@ -1,4 +1,4 @@
-# REFSQ
+# JSS
 dfNEW.xlsx is our dataset for Java. First 201 records are vulnerable methods. Remaining 408 are safe methods
 
 SBertREFSQ.ipynb is used to generate the embeddings and similarity results using SBERT
